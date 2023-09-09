@@ -1,16 +1,32 @@
-import './App.css';
-import React from'react';
+import "./App.css";
+import React from "react";
 
-import { Article, Brand, CTA, Feature, Navbar } from './components';
+import {
+  Footer,
+  Header,
+  Blog,
+  Features,
+  Possibility,
+  WhatGTP3,
+} from "./containers";
+import {Brand, CTA, Navbar } from "./components";
 
 function App() {
   return (
     <React.Fragment>
-      <Navbar />
-      <Feature />
-      <Article />
-      <Brand />
-      <CTA  />
+      <div className="App">
+        <div className="gradient__bg">
+          <Navbar />
+          <Header />
+        </div>
+        <Brand />
+        <WhatGTP3 />
+        <Features />
+        <Possibility/>
+        <CTA />
+        <Blog />
+        <Footer />
+      </div>
     </React.Fragment>
   );
 }

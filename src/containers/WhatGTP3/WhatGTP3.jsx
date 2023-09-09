@@ -8,4 +8,4 @@ const WhatGTP3 = () => {
   )
 }
 
-export default WhatGTP3
+export default WhatGTP3;

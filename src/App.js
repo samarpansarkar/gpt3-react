@@ -1,11 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import React from'react';
+
+import Navbar from './components/Navbar/Navbar';
+import Feature from './components/Feature/Feature';
+import Article from './components/Article/Article';
+import Brand from './components/Brand/Brand';
+import CTA from './components/CTA/CTA';
 
 function App() {
   return (
-    <div className="App">
-      <h1>gpt 3</h1>
-    </div>
+    <React.Fragment>
+      <Navbar />
+      <Feature />
+      <Article />
+      <Brand />
+      <CTA  />
+    </React.Fragment>
   );
 }
 

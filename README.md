@@ -3,3 +3,9 @@
 <h1>What is GPT3</h1>
 <img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture2.JPG" alt="heading2"/>
 <img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture3.JPG" alt="heading3"/>
+<img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture4.JPG" alt="heading4"/>
+<img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture5.JPG" alt="heading5"/>
+<img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture6.JPG" alt="heading6"/>
+<h1>Footer</h1>
+<img src="https://github.com/samarpansarkar/gpt3-react/blob/master/Capture7.JPG" alt="heading"/>
+

@@ -22,8 +22,8 @@ function App() {
         <Brand />     {/* done */}
         <WhatGTP3 />  {/* done */}
         <Features />  {/* done */}
-        <Possibility />{/* todo */}  {/*  2:11:48        https://www.youtube.com/watch?v=F627pKNUCVQ&ab_channel=JavaScriptMastery*/}
-        <CTA />       {/* todo */}
+        <Possibility />{/* done */}  {/*  2:11:48        https://www.youtube.com/watch?v=F627pKNUCVQ&ab_channel=JavaScriptMastery*/}
+        <CTA />       {/* done */}
         <Blog />      {/* todo */}
         <Footer />    {/* todo */}
       </div>

@@ -24,7 +24,7 @@ function App() {
         <Features />  {/* done */}
         <Possibility />{/* done */}  {/*  2:11:48        https://www.youtube.com/watch?v=F627pKNUCVQ&ab_channel=JavaScriptMastery*/}
         <CTA />       {/* done */}
-        <Blog />      {/* todo */}
+        <Blog />      {/* done */}
         <Footer />    {/* todo */}
       </div>
     </React.Fragment>

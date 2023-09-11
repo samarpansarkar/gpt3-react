@@ -22,10 +22,10 @@ function App() {
         <Brand />     {/* done */}
         <WhatGTP3 />  {/* done */}
         <Features />  {/* done */}
-        <Possibility />{/* done */}  {/*  2:11:48        https://www.youtube.com/watch?v=F627pKNUCVQ&ab_channel=JavaScriptMastery*/}
+        <Possibility />{/* done */}  {/*https://www.youtube.com/watch?v=F627pKNUCVQ&ab_channel=JavaScriptMastery*/}
         <CTA />       {/* done */}
         <Blog />      {/* done */}
-        <Footer />    {/* todo */}
+        <Footer />    {/* done */}
       </div>
     </React.Fragment>
   );
